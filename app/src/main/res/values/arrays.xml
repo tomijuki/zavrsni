@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="types">
+        <item value="null">@string/choose_type</item>
+        <item value="1">@string/endurance</item>
+        <item value="2">@string/bodyweight</item>
+        <item value="3">@string/weights</item>
+    </string-array>
+
+</resources>

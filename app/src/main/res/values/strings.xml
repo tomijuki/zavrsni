@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Završni Rad - Jukić</string>
+
+    <!--nazivi aktivnosti-->
+    <string name="title_activity_exercise_list">List of exercises</string>
+    <string name="title_activity_exercise_creator">Create a new exercise</string>
+    <string name="title_activity_exercise_executor">Exercise</string>
+    <string name="title_activity_run_list">List of runs</string>
+    <string name="title_activity_run_info">Run</string>
+    <string name="title_activity_run">Run</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- exercise creator -->
+    <string name="exercise_title">Exercise title:</string>
+    <string name="exercise_title_hint">title</string>
+    <string name="exercise_type">Exercise type:</string>
+    <string name="choose_type">select the exercise type</string>
+    <string name="endurance">Endurance</string>
+    <string name="bodyweight">Bodyweight</string>
+    <string name="weights">Weights</string>
+
+    <string name="reps">Repetitions:</string>
+    <string name="sets">Sets:</string>
+    <string name="weight">Weight:</string>
+    <string name="pausetime">Break duration:</string>
+    <string name="description">Description:</string>
+    <string name="settime">Set duration:</string>
+
+    <string name="exercise_type_alert">Please select the type of exercise.</string>
+    <string name="exercise_fill_alert">Please fill in all the values.</string>
+    <string name="exercise_create_error">Exercise has not been created.</string>
+
+    <!-- exercise executor -->
+    <string name="set_in_progress">Set %1$d/%2$d in progress.</string>
+    <string name="pause_in_progress">Pause %1$d/%2$d in progress.</string>
+    <string name="pause_finished">Pause %1$d/%2$d finished.</string>
+    <string name="exercise_reps">Reps: %1$d</string>
+    <string name="exercise_weight">Reps: %1$d   Weight: %2$d kg</string>
+
+    <string name="exercise_finished">Exercise finished.</string>
+    <string name="exercise_congratulations">Congratulations!</string>
+
+    <string name="exercise_resume">PRESS TO RESUME</string>
+    <string name="exercise_start">PRESS TO START</string>
+    <string name="exercise_done">PRESS WHEN DONE</string>
+    <string name="exercise_pause">PRESS TO PAUSE</string>
+    <string name="exercise_pause_in_progress">PAUSE IN PROGRESS</string>
+    <string name="exercise_ready">PRESS WHEN READY</string>
+    <string name="exercise_finish">FINISH THE EXERCISE</string>
+
+    <!-- simple time picker -->
+    <string name="pick_time">Select duration:</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- exercise list -->
+    <string name="exercise_delete">The exercise is deleted.</string>
+    <string name="exercise_add_error">The exercise was not added successfully.</string>
+    <string name="exercise_add_alert">A new exercise has been successfully added.</string>
+
+    <!-- run list -->
+    <string name="duration">Duration</string>
+    <string name="distance">Distance</string>
+    <string name="pace">Pace</string>
+    <string name="run_delete">Run deleted.</string>
+
+    <!-- run activity -->
+    <string name="start">START</string>
+    <string name="pause">PAUSE</string>
+    <string name="resume">RESUME</string>
+    <string name="finish">FINISH</string>
+    <string name="finish_alert">The run has finished.</string>
+    <string name="run_save_error">The run has not finished.</string>
+    <string name="current_location">Current Location</string>
+    <string name="end_location">Final Location</string>
+    <string name="start_location">Starting Location</string>
+
+    <string name="run_toast">Please be patient until we reach your current location.</string>
+    <string name="location_alert">Location settings</string>
+    <string name="gps_network_not_enabled">Please enable your location before starting the activity.</string>
+
+
+
+    <!-- run confirm -->
+    <string name="run_dialog_title">Delete a run</string>
+    <string name="run_message">Are you sure you want to delete the selected run?</string>
+
+    <string name="delete">Delete</string>
+
+    <!-- exercise confirm -->
+    <string name="exercise_dialog_title">Delete an exercise</string>
+    <string name="exercise_message">Are you sure you want to delete the selected exercise?</string>
+
+    <!-- settings activity -->
+
+    <string name="profile">Profile</string>
+    <string name="options">Options</string>
+    <string name="name_hint">full name</string>
+    <string name="height">Height:</string>
+    <string name="weight_mass">Weight:</string>
+    <string name="date_of_birth">Date of birth:</string>
+    <string name="language">Language:</string>
+    <string name="vibrate">Vibration:</string>
+    <string name="credits" translatable="false">Tomislav Jukić,\n Elektrotehnička i prometna škola Osijek,\n Istarska 3, 31000 Osijek,\n www.elpros.hr</string>
+</resources>
